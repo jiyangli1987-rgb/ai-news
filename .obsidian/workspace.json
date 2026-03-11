@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "8eb1508a60ade429",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3832bb8464c2b5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e849624bfbfb5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "news/2026/03-10/07-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07-15"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3324fcb415019afd",
+    "type": "split",
+    "children": [
+      {
+        "id": "571f68c9ebd10ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1ee6301f170ba38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "078af1ada38932a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "eb4cde050cd22f85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9d8113ddf9dfb87",
+    "type": "split",
+    "children": [
+      {
+        "id": "496691eb0aa6b9e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d25324ddcb0523a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "x.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "x 的反向链接列表"
+            }
+          },
+          {
+            "id": "4904162ee8134236",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "x.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "x 的出链列表"
+            }
+          },
+          {
+            "id": "f343a12461162378",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "8d1e0312b0047365",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "ee80f298eb523051",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "x.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "x 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "d1e849624bfbfb5c",
+  "lastOpenFiles": [
+    "news/2026/03-08/07-55.md",
+    "news/2026/03-08/07-45.md",
+    "news/2026/03-07/09-55.md",
+    "posts/2026/03/07-1005-ai-bloggers.md",
+    "x.md",
+    "news1.md",
+    "ai-blogger-updates/2026/03/10/08-25.md",
+    "ai-blogger-updates/2026/03/10",
+    "posts/2026/03",
+    "posts/2026",
+    "posts",
+    "news/2026/03-07",
+    "news/2026",
+    "news"
+  ]
+}
