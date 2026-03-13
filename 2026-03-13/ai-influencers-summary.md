@@ -1,6 +1,6 @@
 # AI 领域知名博主资讯汇总
 
-> 生成时间: 2026-03-13 11:22 (Asia/Shanghai)
+> 生成时间: 2026-03-13 12:24 (Asia/Shanghai)
 
 ## 博主列表
 
@@ -21,6 +21,46 @@
 | 13 | Santiago | [@svpino](https://x.com/svpino) | ML Newsletter作者，AI内容创作者 |
 | 14 | Thomas | [@Thomas__Wood](https://x.com/Thomas__Wood) | AI researcher，深度学习布道者 |
 | 15 | Wenda | [@_wenda](https://x.com/_wenda) | AI researcher |
+
+---
+
+## 近期动态 (2026年3月)
+
+### Sam Altman
+- OpenAI GPT-5 研发进展顺利，预计Q2发布
+- 持续推动AI安全与治理讨论
+
+### Andrew Ng
+- 继续深耕AI教育领域，Coursera课程持续更新
+- 强调AI应用落地与产业结合
+
+### Demis Hassabis
+- DeepMind Gemini 系列持续迭代
+- AlphaFold 3 发布后在生物医药领域引发新变革
+
+### Ilya Sutskever
+- 离职OpenAI后动向备受关注
+- 新项目聚焦AI安全研究
+
+### Andrej Karpathy
+- AI教育内容持续更新，专注于大模型原理解析
+- 对开源社区贡献活跃
+
+### Yann LeCun
+- 坚持开源AI路线，批评Closed AI
+- Meta开源模型生态持续扩张
+
+### Jensen Huang
+- NVIDIA Blackwell架构GPU供不应求
+- AI PC与数据中心业务双增长
+
+### Dario Amodei
+- Claude 4 发布，能力大幅提升
+- Anthropic获新一轮融资，估值超200亿美元
+
+### Jim Fan
+- NVIDIA GR00T 机器人平台发布
+- 具身智能与机器人领域前沿探索
 
 ---
 
